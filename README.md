@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Molina 👋</h1>
 <h3 align="center">A Full-Stack from Colombia</h3>
 
-- 📫 How to reach me **jdmolinae@hotmail.com**
+📫 How to reach me **jdmolinae@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
