@@ -2,19 +2,8 @@
 <h3 align="center">A Full-Stack Developer from Colombia</h3>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:jdmolinae@hotmail.com"><strong>jdmolinae5@gmail.com</strong></a>
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:jdmolinae@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email"/>
-  </a>
+  📫 Email: <a href="mailto:jdmolinae5@gmail.com"><strong>jdmolinae5@gmail.com</strong></a> &nbsp;|&nbsp;
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/"><strong>Jesús Daniel Molina</strong></a>
 </p>
 
 ---
@@ -29,30 +18,10 @@
     <th>Tools & Platforms</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,ts&perline=5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular,html,css&perline=3" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql,firebase&perline=5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /></td>
   </tr>
 </table>
 
