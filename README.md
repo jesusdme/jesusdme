@@ -15,13 +15,11 @@
     <th>Programming Languages</th>
     <th>Frontend</th>
     <th>Backend & DB</th>
-    <th>Tools & Platforms</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,ts&perline=5" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=angular,html,css&perline=3" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql,firebase&perline=5" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /></td>
   </tr>
 </table>
 
