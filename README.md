@@ -25,6 +25,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusdme&show_icons=true&locale=en&layout=compact&theme=dark" alt="jesusdme" />
-</p>
