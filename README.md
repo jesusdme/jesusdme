@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&width=560&lines=Java+%C2%B7+Kotlin+%C2%B7+TypeScript;Angular+%C2%B7+Spring+Boot+%C2%B7+Node.js;Construyendo+aplicaciones+web+y+m%C3%B3viles" alt="stack"/>
 
-**Bogotá, Colombia**&nbsp; · &nbsp;jdmolinae5@gmail.com&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/)&nbsp; · &nbsp;[GitHub](https://github.com/jesusdme)
-
+**Bogotá, Colombia**&nbsp; · &nbsp;jdmolinae5@gmail.com&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/)&nbsp; 
 <table>
 <tr>
 <td width="58%" valign="top">
