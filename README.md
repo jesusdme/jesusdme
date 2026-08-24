@@ -1,18 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0c1e3d,50:14306b,75:2b1f6b,100:4c1d95&height=190&section=header&text=Jes%C3%BAs%20Molina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20from%20Colombia&descAlignY=57&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&width=540&lines=Java+%C2%B7+Kotlin+%C2%B7+TypeScript;Angular+%C2%B7+Spring+Boot+%C2%B7+Node.js;Bogot%C3%A1%2C+Colombia" alt="stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&width=560&lines=Java+%C2%B7+Kotlin+%C2%B7+TypeScript;Angular+%C2%B7+Spring+Boot+%C2%B7+Node.js;Construyendo+aplicaciones+web+y+m%C3%B3viles" alt="stack"/>
 
-<img src="https://img.shields.io/badge/-SOBRE%20M%C3%8D-020617?style=for-the-badge&labelColor=020617"/>
-
-<a href="mailto:jdmolinae5@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=020617"/>
-</a>
-<a href="https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/">
-  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=020617"/>
-</a>
-<a href="https://github.com/jesusdme">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=020617"/>
-</a>
+**Bogotá, Colombia**&nbsp; · &nbsp;jdmolinae5@gmail.com&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/in/jesus-daniel-molina-emiliani-b75351388/)&nbsp; · &nbsp;[GitHub](https://github.com/jesusdme)
 
 <table>
 <tr>
